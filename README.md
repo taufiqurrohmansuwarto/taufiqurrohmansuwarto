@@ -8,6 +8,8 @@ Untuk keseharian saya programming saya biasa menggunakan bahasa Javascript. Fram
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taufiqurrohmansuwarto&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqurrohmansuwarto&layout=compact)](https://github.com/taufiqurrohmansuwarto/github-readme-stats)
+
 
 <!--
 **taufiqurrohmansuwarto/taufiqurrohmansuwarto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
