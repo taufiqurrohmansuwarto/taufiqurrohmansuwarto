@@ -6,7 +6,7 @@ Saya Tinggal di Sidoarjo. Bahasa yang saya gunakan sehari-hari adalah bahasa Ind
 
 Untuk keseharian saya programming saya biasa menggunakan bahasa Javascript. Framework yang sering saya gunakan adalah NextJS, Prisma, AntDesign dan untuk database adalah Postgres.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taufiqurrohmansuwarto&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taufiqurrohmansuwarto&count_private=true)
 
 
 <!--
